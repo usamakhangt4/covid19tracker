@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/usamakhangt4.github.io/covid19tracker/static/css/main.b2e62c33.chunk.css",
+    "main.js": "/usamakhangt4.github.io/covid19tracker/static/js/main.19155fb2.chunk.js",
+    "main.js.map": "/usamakhangt4.github.io/covid19tracker/static/js/main.19155fb2.chunk.js.map",
+    "runtime-main.js": "/usamakhangt4.github.io/covid19tracker/static/js/runtime-main.11d9fe4a.js",
+    "runtime-main.js.map": "/usamakhangt4.github.io/covid19tracker/static/js/runtime-main.11d9fe4a.js.map",
+    "static/js/2.b391ba75.chunk.js": "/usamakhangt4.github.io/covid19tracker/static/js/2.b391ba75.chunk.js",
+    "static/js/2.b391ba75.chunk.js.map": "/usamakhangt4.github.io/covid19tracker/static/js/2.b391ba75.chunk.js.map",
+    "index.html": "/usamakhangt4.github.io/covid19tracker/index.html",
+    "precache-manifest.679611b26b20ee6c802eac052c3e1ce3.js": "/usamakhangt4.github.io/covid19tracker/precache-manifest.679611b26b20ee6c802eac052c3e1ce3.js",
+    "service-worker.js": "/usamakhangt4.github.io/covid19tracker/service-worker.js",
+    "static/css/main.b2e62c33.chunk.css.map": "/usamakhangt4.github.io/covid19tracker/static/css/main.b2e62c33.chunk.css.map",
+    "static/js/2.b391ba75.chunk.js.LICENSE.txt": "/usamakhangt4.github.io/covid19tracker/static/js/2.b391ba75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11d9fe4a.js",
+    "static/js/2.b391ba75.chunk.js",
+    "static/css/main.b2e62c33.chunk.css",
+    "static/js/main.19155fb2.chunk.js"
+  ]
+}
